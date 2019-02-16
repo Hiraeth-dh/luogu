@@ -10,4 +10,6 @@ int main(){
 		else cnt--;
 	}
 	printf("%d\n",p);
+	return 0;
 } 
+//摩尔投票法求区间n/2的众数 
